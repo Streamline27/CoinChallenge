@@ -1,9 +1,9 @@
-#TechChill 2017 programming challenge
+# TechChill 2017 programming challenge
 
 This is a simple SpringBoot + AngularJs + Kotlin service.
 Have chosen this stack just to revise the technologies and try Kotlin.
 
-##To start the service
+## To start the service
 
 1) Checkout the service from:
 https://github.com/Streamline27/CoinChallenge
